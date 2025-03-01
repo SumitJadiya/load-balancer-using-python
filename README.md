@@ -18,3 +18,13 @@ Second Attempt --
 
 Third Attempt -- 
 <img width="956" alt="Screenshot 2025-03-01 at 22 31 05" src="https://github.com/user-attachments/assets/df96477e-0823-465f-9c16-857dd6e1b404" />
+
+
+### Load balancing algo
+- round robin
+- least connections
+- weighted 
+- IP hash
+
+### check the nginx logs
+`sudo tail -f /var/log/nginx/access.log`
